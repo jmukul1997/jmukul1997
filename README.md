@@ -16,10 +16,11 @@
 
 <p>&nbsp;&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jmukul1997&" alt="jmukul1997" /></p>
 
-<p>&nbsp;&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jmukul1997&show_icons=true&locale=en&layout=compact" alt="jmukul1997" /></p>
-&nbsp;&nbsp;
-### Now Playing 🎧
+<p>&nbsp;&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jmukul1997&show_icons=true&locale=en&layout=compact" alt="jmukul1997" /> </p>
 
+### Now Playing 🎧
+<p>
 [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/31shl3gzoc5evkhlfhbulbuins54)
-<br/>
+</p>
+  <br/>
 ---
